@@ -10,6 +10,7 @@ pip install -r requirement.txt
 ```
 
 Feel free to ping <a href="https://linktr.ee/neel_patel" target="_blank" rel="noreferrer">me</a> or your inputs via pull request would be appreciated:)
+
 This is totally team efforts and acknowledgement goes with it.
 
 Copyrights © 2022 by Neel Patel.
