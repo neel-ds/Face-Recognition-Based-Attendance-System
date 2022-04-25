@@ -6,5 +6,5 @@ For software requirements, I suggest that your system should be installed with <
 Feel free to ping <a href="https://linktr.ee/neel_patel" target="_blank" rel="noreferrer">me</a> or your inputs via pull request would be appreciated:)
 This is totally team efforts and acknowledgement goes with it.
 
-Copyrights © 2021 by Neel Patel.
+Copyrights © 2022 by Neel Patel.
 All rights are reserved.
